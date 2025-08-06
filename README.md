@@ -1,6 +1,6 @@
 # 📜 Meus Certificados
 
-Este repositório reúne meus certificados de cursos e formações nas áreas de **desenvolvimento web**, **segurança da informação**, **soft skills** e outras áreas da tecnologia.  
+Este repositório reúne meus certificados de cursos e formações nas áreas de **desenvolvimento web**.  
 Organizei os arquivos por categoria para facilitar a visualização e consulta.
 
 ---

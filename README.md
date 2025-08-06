@@ -9,10 +9,13 @@ Organizei os arquivos por categoria para facilitar a visualização e consulta.
 
 ### 💻 Desenvolvimento Web
 - **HTML e CSS** – Curso em Vídeo (2025)  
-  [`📄 Visualizar Certificado`](./Certificados/ALEXSANDRA-MONTEIRO-RIBEIRO-HTML5-e-CSS3-Modulo-1-de-5-VIP-Certificado-Curso-em-Video.pdf)  
+    [`📄 Visualizar Certificado`](./Certificados/ALEXSANDRA-MONTEIRO-RIBEIRO-HTML5-e-CSS3-Modulo-1-de-5-VIP-Certificado-Curso-em-Video.pdf)  
 - **JavaScript Intermediário** – Curso em Vídeo (2025)  
-  [`📄 Visualizar Certificado`](./Certificados/ALEXSANDRA-MONTEIRO-RIBEIRO-Javascript-40-Horas-Certificado-Curso-em-Video.pdf)
-
+    [`📄 Visualizar Certificado`](./Certificados/ALEXSANDRA-MONTEIRO-RIBEIRO-Javascript-40-Horas-Certificado-Curso-em-Video.pdf)
+- **PYTHON 3** - Curso em Vídeo (2025)
+    [`📄 Visualizar Certificado`](./Certificados/ALEXSANDRA-MONTEIRO-RIBEIRO-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video.pdf)
+    [`📄 Visualizar Certificado`](./Certificados/ALEXSANDRA-MONTEIRO-RIBEIRO-Python-3-8211-Mundo-2-40-Horas-Certificado-Curso-em-Video.pdf)
+    [`📄 Visualizar Certificado`](./Certificados/ALEXSANDRA-MONTEIRO-RIBEIRO-Python-3-8211-Mundo-3-40-Horas-Certificado-Curso-em-Video.pdf)
 ---
 
 ## 🎯 Sobre mim
